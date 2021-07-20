@@ -1,0 +1,1 @@
+C:\TempSpace\HelloXamlIslands\demoForUwp\demoForUwp.csproj;x86
